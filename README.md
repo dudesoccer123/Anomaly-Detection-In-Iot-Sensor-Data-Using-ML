@@ -49,4 +49,3 @@ This notebook documents experiments on **Anomaly Detection** using three unsuper
 
 ---
 
-*Notebook prepared by [Your Name] — July 2025*
